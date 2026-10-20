@@ -6,7 +6,7 @@
    "name": "Accessfy Auditor",
    "release": {
     "@type": "doap:Version",
-    "revision": "1.0.0"
+    "revision": "1.1.0"
    },
    "homepage": "https://accessfy.ai",
    "doap:vendor": {
@@ -14563,10 +14563,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14583,10 +14581,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14603,10 +14599,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14623,10 +14617,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14643,10 +14635,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14663,10 +14653,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14683,10 +14671,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14703,10 +14689,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14723,10 +14707,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14743,10 +14725,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14763,10 +14743,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14783,10 +14761,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14803,10 +14779,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14823,10 +14797,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Headings provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Headings provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14843,10 +14815,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14863,10 +14833,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14883,10 +14851,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14903,10 +14869,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14923,10 +14887,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14943,10 +14905,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14963,10 +14923,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -14983,10 +14941,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15003,10 +14959,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15023,10 +14977,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15043,10 +14995,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15063,10 +15013,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Skip link is available (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Skip link is available (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15083,10 +15031,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15103,10 +15049,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15123,10 +15067,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15143,10 +15085,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15163,10 +15103,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15183,10 +15121,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15203,10 +15139,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
@@ -15223,10 +15157,8 @@
      "@type": "Assertion",
      "test": {
       "@type": "TestCriterion",
-      "title": "Accessfy: Landmarks provide a way to bypass blocks (WCAG 2.4.1)",
-      "isPartOf": [
-       "WCAG2:bypass-blocks"
-      ]
+      "title": "Accessfy: Landmarks provide a way to bypass blocks (best practice)",
+      "isPartOf": []
      },
      "result": {
       "@type": "TestResult",
